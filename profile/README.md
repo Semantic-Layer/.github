@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to the Semantic Layer HQ!</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0bac22b2-0fbb-428a-87d2-5232c966b074" alt="Semantic Layer Banner">
+  <img alt="Semantic Layer Banner" src="https://github.com/user-attachments/assets/4ede09c4-3ea6-4b8e-92f5-65aab0e3ac7a">
+
   <p></p>
   <b>Semantic Layer</b> is bringing better incentive alignment and native scaling &mdash;
   <br/>
