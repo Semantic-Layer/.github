@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Stay tuned:</h3>
-  <a target="_blank" href="https://discord.gg/ZawtSUxNTQ"><img src="https://dcbadge.limes.pink/api/server/ZawtSUxNTQ?compact=true&style=social" alt="" /></a>
+  <a target="_blank" href="https://discord.gg/semanticlayer"><img src="https://dcbadge.limes.pink/api/server/semanticlayer?compact=true&style=social" alt="" /></a>
   <a target="_blank" href="https://twitter.com/SemanticLayer"><img src="https://img.shields.io/twitter/follow/SemanticLayer?label=@SemanticLayer&style=social"></a>
 </div>
 
